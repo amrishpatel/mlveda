@@ -14,6 +14,6 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2013 amrish84. See LICENSE.txt for
+Copyright (c) 2013 amrishpatel. See LICENSE.txt for
 further details.
 
